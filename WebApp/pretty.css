@@ -55,4 +55,15 @@ button:hover {
 
 h1.temp{
     margin: 0;
+    margin-bottom: 0.5em;
 }
+.flex {
+    display: flex;
+    align-items: center;
+}
+.description {
+    text-transform: capitalize;
+    margin-left: 10px;
+    margin-left: 8px;
+}
+
